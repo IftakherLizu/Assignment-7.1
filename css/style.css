@@ -130,7 +130,7 @@ img {
     color: #333;
     font-style: italic;
     margin: 0;
-    position: relative;;
+    position: relative;
  }
 
 .heading1 h2:after{
@@ -164,8 +164,6 @@ img {
   -moz-transition: all 0.5s ease-in-out;
   font-style: italic;
 }
-
-
 
 .product-section {
   padding: 60px 0;
@@ -495,7 +493,7 @@ transition: all .5s ease-in-out;
     -moz-transform: translateX(-50%) scale(0);
     transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out
+    -moz-transition: all 0.5s ease-in-out;
 }
 .heding h2:before{
      position: absolute;
@@ -509,8 +507,7 @@ transition: all .5s ease-in-out;
     -webkit-transform: translateX(-50%) scale(0);
     -moz-transform: translateX(-50%) scale(0);
     transition: all 0.5s ease-in-out;
-    -webkit-transition: all 0.5s ease-in-out;;
-
+    -webkit-transition: all 0.5s ease-in-out;
 }
 
 .Trending:hover .heding h2:before, 
@@ -549,7 +546,7 @@ margin-top:60px;
     margin-top: 10px;
     margin-bottom: 90px;
     letter-spacing: 2px;
-    font-family: 'Lato', sans-serif;;
+    font-family: 'Lato', sans-serif;
   
 }
 .half-part h6{
@@ -597,7 +594,6 @@ margin-top:60px;
   display: inline-block;
 margin-left: 10px; 
 color: #333;
-
 }
 
 .slider-button2{
@@ -630,14 +626,15 @@ color: #333;
       transition: all .5s ease;
 }
 
-
 .blog-section{
   overflow: hidden;
   padding-bottom: 60px;
 }
+
 .blog-part{
     width: 100%;
 }
+
 .blog-title{
       position: relative;
     text-align: center;
@@ -646,12 +643,14 @@ color: #333;
     font-style: italic;
     padding: 90px 0;
 }
+
 .blog-title h2{
   margin: 0;
    font-size: 40px;
 }
+
 .blog-title h2:after{
-position: absolute;
+    position: absolute;
     content: "";
     width: 185px;
     height: 5px;
@@ -665,8 +664,9 @@ position: absolute;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
 }
+
 .blog-title h2:before{
-position: absolute;
+    position: absolute;
     content: "";
     width: 185px;
     height: 5px;
@@ -686,6 +686,7 @@ transform: translateX(-50%) scale(1);
     -webkit-transform: translateX(-50%) scale(1);
     -moz-transform: translateX(-50%) scale(1);
 }
+
 .blog{
     padding-top: 10px;
     width: 50%;
@@ -837,7 +838,6 @@ margin-left: 100px;
   font-size: 18pt;
   color: #333;
   font-family: 'Lato', sans-serif;
-
 }
 
 .fa.fa-heart {
